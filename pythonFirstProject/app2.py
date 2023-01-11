@@ -131,7 +131,4 @@ elif op == "*":
 else:
     print("Invalid operator")
 
-"""
-dictionaries
-"""
 
